@@ -1,0 +1,21 @@
+.m_btn_on {
+    top:0%;
+    right: 2%;
+    /*margin: -25px 0 0 -30px;*/
+    position: absolute;
+    height: 45px;
+    width: 45px;
+    background:url(../images/play.gif);
+    z-index: 100;
+}
+
+.m_btn_off {
+    top:0%;
+    right: 2%;
+    /*margin: -25px 0 0 -30px;*/
+    position: absolute;
+    height: 45px;
+    width: 45px;
+    background: url(../images/pause.gif);
+    z-index: 100;
+}
